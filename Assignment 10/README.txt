@@ -5,8 +5,9 @@ adjustments from latter sections. The most notable addition being the UI element
 The gameplay elements have remained the same though.
 
 I utilized the recommended sound effects/music from the book, however I personalized
-the UI to my liking. Additionally, I came around to reorganize the scripts to be in
-a separate folder as it was proving to be too cluttered. 
+the UI to my liking. Additionally, I came around to reorganize the scripts that I used 
+to be in a separate folder as it was proving to be too cluttered. 
+
 
 Instructions:
 
