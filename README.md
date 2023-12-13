@@ -5,6 +5,8 @@ also included these projects as I felt that I had the most fun creating them.
 
 A short overview of these projects:
 
+*Please note that these projects utilize Unity version 2023.1.0f1*
+  
 * **Assignment 10**
   * This project covers the process of creating a third-person game with an emphasis on
   allowing the player to interact with the environment in a few different ways. Additionally,
